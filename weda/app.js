@@ -1,5 +1,5 @@
 const API_KEY = `355243a7f4a34456adc215821210612`;
-const API_URL = `http://api.weatherapi.com/v1/current.json?key=${API_KEY}`
+const API_URL = `https://api.weatherapi.com/v1/current.json?key=${API_KEY}`
 
 class App {
     constructor(el) {
